@@ -13,8 +13,14 @@ An interactive, web-based educational game created for the **Organization and Ma
 - CSS3 (Tailwind CSS via CDN for layout)
 - Vanilla JavaScript (Custom Game Logic)
 
-## 🚀 How to Run:
-No installation required. Simply open `index.html` in any modern web browser.
+## 🚀 How to Play:
+
+The game is deployed and fully playable live on the web! No installation is required. 
+
+👉 **[Click here to play the Management Mastery Arcade](https://stephen-evangelista.github.io/Management-Mastery-Arcade/)**
+
+*(Optional: To run locally, simply open `index.html` in any modern web browser.)*
+
 
 ## 👨‍💻 Author:
 **Stephen Evangelista**  
