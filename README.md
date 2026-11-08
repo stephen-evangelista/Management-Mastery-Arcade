@@ -1,6 +1,6 @@
 # Management Mastery Arcade
 
-![Management Mastery Arcade Main Menu](https://github.com/stephen-evangelista/Management-Mastery-Arcade/blob/4ede07186bf906bc7e2d537a5fe3ed3ad32e0b9/Untitled%20design_20261108_182659_0000_transfer_2026-11-08_195033.png?raw=true)
+![Management Mastery Arcade Main Menu](preview.png)
 
 An interactive, web-based educational game created for the **Organization and Management Concepts** subject. This project features four engaging mini-games designed to test and reinforce the student's knowledge of key management principles.
 
